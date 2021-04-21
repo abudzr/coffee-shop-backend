@@ -57,7 +57,15 @@ Frontend dari aplikasi ini dapat dicek pada tautan berikut [coffee-shop-frontend
 - [nodemon](https://www.npmjs.com/package/nodemon)
 - [redis](https://www.npmjs.com/package/redis)
 
+
 ## Created By: 
-- [Nevalen Aginda Prasetyo](https://github.com/nevalenaginda)
-- [Chaerul Marwan](https://github.com/chaerulmarwan20)
-- [Herza Paramayudhanto](https://github.com/herzaparam)
+1. Herza Paramayudhanto - Backend - PM
+2. Chaerul Marwan - Backend - Member
+3. Abu Dzar Al-ghifari - Frontend - Member
+4. Nevalen Aginda Prasetyo - Backend - Member
+5. Kevin Farid Alpharisy - Frontend -Member
+
+## Link:
+
+- [Frontend](https://github.com/abudzr/coffee-shop-frontend)
+- [Visit Project](https://coffee-shop-bohdan.netlify.app/)
