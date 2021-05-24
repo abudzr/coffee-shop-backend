@@ -1,5 +1,11 @@
-# Bohdan Developer Coffee-Backend
-Backend for Coffee Application
+<p align="center">
+  <a href="" rel="noopener">
+ <img  src="https://user-images.githubusercontent.com/68935056/119311556-69728e00-bc9b-11eb-87f9-78b017409760.png" alt="logo"></a>
+</p>
+
+<h3 align="center">Backend Coffee Shop - Arkademy</h3>
+
+---
 
 ## API Documentation
 > You can check Postman API Documentation [Here](https://documenter.getpostman.com/view/13256965/TzCTZkQo)
